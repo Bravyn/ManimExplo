@@ -10,12 +10,4 @@ Before running the examples, make sure you have Manim installed. You can install
 - [Manim GL Installation Guide](https://docs.manim.community/en/latest/installation.html)
 
 ## Examples
-
-### Hello, World!
-
-The `scene.py` script showcases a simple "Hello, World!" animation using Manim. It displays the text "Hello, World!" on the screen and performs a fade-out animation.
-
-To run the example, execute the following command:
-
-```bash
-manim hello_world.py HelloWorld -p
+Most of the code is found in the code notebooks
